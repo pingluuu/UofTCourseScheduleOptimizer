@@ -71,7 +71,7 @@ Lower window(s):
 
 ## Contributors
 In alphabetical order:
-- Aurora Lu ([GitHub](https://github.com/pingluuu))
+- Aurora(Ping) Lu ([GitHub](https://github.com/pingluuu))
 - Bayan Mehr ([GitHub](https://github.com/bayanmehr))
 - Jacky Tan ([GitHub](https://github.com/52259tan))
 - Joshua Jang ([GitHub](https://github.com/musicofmusix))
