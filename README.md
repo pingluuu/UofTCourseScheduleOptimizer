@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/github/license/52259tan/UofTCourseScheduleOptimizer)](./LICENSE)
 [![JDK](https://img.shields.io/badge/JDK-20-red)](https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html)
 
-# Distance-Based Timetable Organiser
+# Distance-Based Timetable Organizer
 *Generate University of Toronto timetables with minimal distances between buildings*
 
 For the project *Blueprint*, see [BLUEPRINT.md](BLUEPRINT.md)
